@@ -142,7 +142,10 @@ body {
 /* End header */
 /* Start Landing */
 .landing {
+<<<<<<< HEAD
   background-image: url(/images/1.jpg);
+=======
+>>>>>>> 497e5cb30d072437063f2253b0f4cfec7d283c5f
   height: calc(100vh - 56px);
   background-size: cover;
   position: relative;
